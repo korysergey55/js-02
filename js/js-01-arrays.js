@@ -11,5 +11,5 @@ const getExtremeElements = function (array) {
   return screen;
 };
 
-const value = [4, 5, 7, 8, 5];
+const value = [4, 5, 7, 8, 5,9];
 getExtremeElements(value);

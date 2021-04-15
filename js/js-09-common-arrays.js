@@ -13,4 +13,4 @@ const getCommonElements = function (array1, array2) {
   console.log(newArr);
   return newArr;
 };
-getCommonElements([1, 2, 3], [2, 1, 17, 19]); // 1,2
+getCommonElements([1, 2, 3], [2, 1, 17, 19]);  // 1,2
