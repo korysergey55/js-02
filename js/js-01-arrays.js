@@ -13,3 +13,4 @@ const getExtremeElements = function (array) {
 
 const value = [4, 5, 7, 8, 5,9];
 getExtremeElements(value);
+getExtremeElements(value);
