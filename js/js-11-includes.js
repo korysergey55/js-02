@@ -1,4 +1,6 @@
+
 // Напиши функцию  которая  - проверяет, есть ли в массиве array значение value,
+
 // возвращая true если есть и false в противном случае.
 
  const includes = function(array, value) {
